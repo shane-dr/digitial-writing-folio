@@ -1,4 +1,5 @@
 **WEEK 1**
+
 **What is digital writing?**
 -  Writing with additional media (music, images) to make it more visually pleasing to attract
 - Easier access due to technology development
@@ -26,7 +27,8 @@ Hypertext to project the web (intercorrelation into something)
 - The technique I use, I think helps me formulate how I will start my poem. Deriving from there and going off tangent or going outside the box as I'd like to call it. It's like a starting point or guide in how I write.
 - Writing this way definitely allows me to explore emotions correlating on how human experiences the senses, almost very relatable to everyone if experiencing the same thing.
 
-WEEK 2
+**WEEK 2**
 
 THE DADAIST POEM
-https://github.com/shane-dr/bitsy-writing-2024.git
+
+https://github.com/shane-dr/to-make-a-dadaist-poem-remix-2024.git
