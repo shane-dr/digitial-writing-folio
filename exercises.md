@@ -74,7 +74,8 @@ To spare my _sack suit_ of _coaming_.
 **ONE**
 
 The start of Week 5 is the introduction to the idea of hypertext and hypertext fiction. 
-![IMG_1408](https://github.com/shane-dr/digitial-writing-folio/assets/163132499/297b7f42-227a-42fb-a3f2-b2fff46a9633
+![IMG_1408](https://github.com/shane-dr/digitial-writing-folio/assets/163132499/6996d454-ccd9-48b6-a2b5-2c3aab521f89)
+
 ![IMG_1409](https://github.com/shane-dr/digitial-writing-folio/assets/163132499/f3e6e197-7fc9-446e-9d71-469909aa526c)
 
 With more experiments and mind mapping, I ultimately ended up pursuing the story of 'Who murdered my fiancé?' as my first twine story. 
