@@ -71,6 +71,7 @@ To spare my _sack suit_ of _coaming_.
 - It doesn't make sense at all but the whole activity was interesting and fun. The downside of this activity, however, is not having a physical dictionary as it doesn't work well with online dictionary. 
 
 **START OF TWINE EXPERIMENT** - FOR FINAL WORK
+
 **ONE**
 
 The start of Week 5 is the introduction to the idea of hypertext and hypertext fiction. 
@@ -84,5 +85,12 @@ With more experiments and mind mapping, I ultimately ended up pursuing the story
 
 **TWO**
 
+Introduced to Bitsy as another option for our big folio. 
+
+https://github.com/shane-dr/bitsy-writing-2024.git
+
+<img width="1440" alt="Screen Shot 2024-05-06 at 3 00 18 pm" src="https://github.com/shane-dr/digitial-writing-folio/assets/163132499/f10f154e-50b8-469d-ad37-dc08c2cace15">
+
+**THREE**
 
 
