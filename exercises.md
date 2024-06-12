@@ -93,4 +93,52 @@ https://github.com/shane-dr/bitsy-writing-2024.git
 
 **THREE**
 
+Was the start of solely focusing on Twine for the final project. 
 
+<img width="814" alt="image" src="https://github.com/shane-dr/digitial-writing-folio/assets/163132499/e88f57ed-78fe-4065-a05d-21181c55fb37">
+
+Mind mapping and brainstorming intensified to finalise the story. 
+
+**FOUR**
+
+With the experimentation, I mostly struggled with the sizes of the images I intend to add and find the right audio and makit it work. This includes texts in the right side or if I wanted it in the centre. 
+
+<img width="526" alt="image" src="https://github.com/shane-dr/digitial-writing-folio/assets/163132499/d1e20219-f061-4882-b78a-a61fbad74b0b">
+
+**FIVE**
+<img width="597" alt="Screen Shot 2024-06-12 at 8 11 39 pm" src="https://github.com/shane-dr/digitial-writing-folio/assets/163132499/7d77cf3b-cd41-4
+<img width="1440" alt="Screen Shot 2024-05-06 at 2 50 42 pm" src="https://github.com/shane-dr/digitial-writing-folio/assets/163132499/d0671081-31a7-4711-b932-118b462c33bf">
+ebc-9835-9a0a4c7b5d69">
+
+<img width="1440" alt="Screen Shot 2024-05-06 at 2 50 35 pm" src="https://github.com/shane-dr/digitial-writing-folio/assets/163132499/d2c8661d-7e4f-4bad-9d89-ebf991608741">
+
+
+Branching off my proposal, by this time I have encountered more problems in Twine which I ultimately able to fix. I was also able to ad more things for my tags in the style sheets during this period. 
+
+**SIX**
+
+From the plan of my narrative, I proposed to have roughly around 8 characters to be introduced. Going forward with the texts, I realised that I don't need that much characters, and moving with this much character can potentially lengethen the narrative. So, I decided to leave it with five characters excluding the MC. 
+
+**SEVEN**
+
+Going further with my narrative, I decided to take off the 'backward button' from it. This takes out the "maze-like" feel from what I mentioned in my proposal. This is because I now wanted to have the audience follow one path and one flow while going through the narrative and I realised that having the button can create massive confusion and may be forced to be redirected to somehwere they didnt need to be. 
+
+**EIGHT**
+
+In this section, I tried to add time in the text for the first part of the narrative to add timing and pace to the readers. However, some of the codes were not right which took awhile to figure out what was wrong. 
+
+<img width="764" alt="Screen Shot 2024-06-12 at 2 58 01 pm" src="https://github.com/shane-dr/digitial-writing-folio/assets/163132499/5725b101-5110-4562-a926-cf6102b022d1">
+
+**NINE**
+
+I have finished finalising the picture map where all rooms lead back again to the main house where readers can decide to move forward with the story. 
+
+<img width="838" alt="Screen Shot 2024-06-12 at 8 24 49 pm" src="https://github.com/shane-dr/digitial-writing-folio/assets/163132499/13670763-7baa-4572-87dc-b9daf44230c6">
+
+**TEN**
+
+![Screen Shot 2024-05-06 at 4 06 11 pm](https://github.com/shane-dr/digitial-writing-folio/assets/163132499/1f855ae3-6603-4167-8e93-edeba95f6c60)
+
+With the main story finalised, adding them to twine while adding images, background colour and audio became easy. Though a few things were changed and differs from the proposal, like having the eye to each passages became quite redundant so I left the poetry part to 'the house' and made that the poetry part of the story aside from the first three options for characters which all has 'the eye'. The main big change of this project was the ending. Having different or one ending was the one I was unsure of until the end. And I realised, that adding an extra passage can make the narrative longer than it already is. So, with this, I ended up with this narrative as the 'part 1' and ended it with a cliffhanger that just leads the readers back to the main first passage. 
+
+Personally, reading and going through this myself made me realise how fast paced the story went but at the same time was dragged. So, with the ending I ended up with was not satisfying but it was the safest choice I had with the limited time I was given. In the future, I would definitely would want to work on this further to give this a proper ending and better execution than what I have. 
